@@ -1,9 +1,84 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
 h1 {
-  font-family: Montserrat-Black;
-  size: 3rem;
+  
+  font-size: 3.5rem;
+  font-weight:bold;
   line-height: 1.5;
+  color:white;
 }
 
+h3 {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+
+.features-paragraph {
+  
+ 
+  color: #8f8f8f;
+}
+.features-content {
+  text-align:center;
+  padding:5%;
+}
+.fas {
+  font-size:3.4rem;
+  
+  margin-bottom:1rem;
+}
+
+.fa-check-circle {
+  color:#ef8172;
+}
+.fa-check-circle:hover {
+  color:#ff4c68;
+}
+
+.fa-bullseye {
+  color:#ef8172;
+}
+.fa-bullseye:hover {
+  color:#ff4c68;
+}
+.fa-heart {
+  color:#ef8172;
+}
+.fa-heart:hover {
+  color:#ff4c68;
+}
+
+
+.container-fluid {
+  padding: 3% 15%;
+}
 #title {
   background-color: #ff4c68;
 }
+
+.rotate {
+  transform: rotate(30deg);
+}
+
+.iphone {
+  height: 36rem;
+  width:  18rem;
+}
+.tindog {
+  font-size:2.5rem;
+}
+.list {
+  font-size: 1.3rem;
+  margin-left: 20px;
+  margin-right:20px;  
+}
+
+.navi {
+  margin-bottom: 4.5rem;
+}
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
