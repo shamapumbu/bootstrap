@@ -114,3 +114,16 @@ h3 {
   margin: 5% 3% 5% 0;
 }
 
+.special {
+  width:100%;
+}
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
